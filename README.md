@@ -1,4 +1,4 @@
-SQL 4th semester lab report
+# SQL 4th semester lab report
 
 <<<< DBMS (SQL) 4th semester laboratory report >>>>
 
