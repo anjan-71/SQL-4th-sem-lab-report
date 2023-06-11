@@ -3,7 +3,8 @@
 <<<< DBMS (SQL) 4th semester laboratory report >>>>
 
 
-Question 1. Design a database STUDENT from the following tables:
+# Question 1.
+Design a database STUDENT from the following tables:
 Personal_Details(name,address,ph_no,fathers_name,age)
 Class_Details(name,class_start_date,roll_no,branch,semester,ph_no)
 Exam_Details(roll_no,exam_name,hall_no)
@@ -21,7 +22,8 @@ Execute the following queries:
 10. SELECT * FROM Class_Details WHERE roll_no = 'ECE21-01';
 
 
-Question 2. Consider the following relational schema for a bank database,
+# Question 2.
+Consider the following relational schema for a bank database,
 Branch(Branch_name, Branch_id, address)
 Customer(Branch_id,customer_name,customer_id,address,ph_no,age)
 Account(holder_name,customer_id,acc_no,balance,acc_type) Loan(Borrower_name,
